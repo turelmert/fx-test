@@ -1,0 +1,5 @@
+host: ":8080"
+route:
+  echo: "/echo"
+  hello: "/hello"
+shutdownTimeout: 10
